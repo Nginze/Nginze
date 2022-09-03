@@ -4,9 +4,9 @@ Hi 👋 My name is Jonathan Kuug
 * 🌍  I'm based in Ghana
 * 🖥️  See my portfolio at [This link](http://jonathankuug.netlify.app/)
 * ✉️  You can contact me at [kuugjonathan45@gmail.com](mailto:kuugjonathan45@gmail.com)
-* 🧠  I'm learning React Js and Cloud Technologies
+* 🧠  Sophomore at Ashesi University
 * 🤝  I'm open to collaborating on anything open source
-* ⚡  I hate Angular Js
+* ⚡  I hate Redux and Angular Js
 
 ### Skills
 
